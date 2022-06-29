@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Ipad",
+        "employees": [2]
+    },
+    {
+        "id": 2,
+        "name": "Iphone",
+        "employees": []
+    },
+    {
+        "id": 3,
+        "name": "Macbook Pro",
+        "employees": [1, 3]
+    },
+    {
+        "id": 4,
+        "name": "Alienware",
+        "employees": [1, 2, 3]
+    }
+]
